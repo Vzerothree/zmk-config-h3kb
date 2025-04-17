@@ -1,0 +1,6 @@
+If SHIELD_H3KB
+
+config ZMK_KEYBOARD_NAME
+    default "h3kb"
+
+endif
